@@ -68,3 +68,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+{
+"tasks": [
+{
+"id": 1,
+"text": "Doctor's Appointment",
+"day": "Feb 5th at 2:30pm",
+"reminder": true
+},
+{
+"id": 2,
+"text": "Meeting at School",
+"day": "Feb 6th at 2:30pm",
+"reminder": true
+},
+{
+"id": 3,
+"text": "Christmas Shopping",
+"day": "Feb 7th at 2:30pm",
+"reminder": false
+}
+]
+}
